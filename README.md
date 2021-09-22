@@ -1,4 +1,4 @@
-# Zeyu_Protfolio
+# August Chang Protfolio
 Data sceice projects
 
 # Project 1: 
