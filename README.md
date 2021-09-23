@@ -1,6 +1,3 @@
-# August Chang Protfolio
-Data sceice projects
-
 # Project 1: Kaggle Competition: IEEE-CIS Fraud Detection
 A Kaggle competition that focuses on identify the fraud transaction given features like transaction amount, time, devices, etc... 
 
