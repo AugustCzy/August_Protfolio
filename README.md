@@ -16,6 +16,10 @@ A Kaggle competition that focuses on identify the fraud transaction given featur
 # Project 2: VAST Challenge 2017
 An interactive visual analytics system to discover the abnormal events which could be resaons why bird poplutaion decreased in a Wildlife Preserve. 
 
+* Analyzed the given data and generated the hypotheses for the decreasing bird populations in the preserve
+* Designed the effective combinations of different types of interactive plots with coordinated views to detect the abnormal patterns 
+* Generated a detailed report and successfully matched all abnormal events given in the challenge review guide
+
 ![](/images/vast2017.png)
 
 # Project 3: 
