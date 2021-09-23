@@ -2,7 +2,7 @@
 Data sceice projects
 
 # Project 1: Kaggle Competition: IEEE-CIS Fraud Detection
-A Kaggle competition that focuses on identify the frud transaction given featrues like transaction amount, time, devices, ect.. 
+A Kaggle competition that focuses on identify the fraud transaction given features like transaction amount, time, devices, etc... 
 
 * Conducted exploratory data visualization to view behaviors of half a million transactions by seaborn and plt in python
 * Implemented feature engineering to create 90+ new features based on the original dataset to boost the efficiency of machine learning models
@@ -14,6 +14,8 @@ A Kaggle competition that focuses on identify the frud transaction given featrue
 **Key techniques**: Numpy, Pandas, Plt, Seaborn, Plotly, Sklearn, Random Forest(Xgboost, Lightgbm)
 
 # Project 2: VAST Challenge 2017
-This is 
+An interactive visual analytics system to discover the abnormal events which could be resaons why bird poplutaion decreased in a Wildlife Preserve. 
+
+![](/images/vast2017.png)
 
 # Project 3: 
