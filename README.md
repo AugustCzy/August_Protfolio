@@ -22,4 +22,6 @@ An interactive visual analytics system to discover the abnormal events which cou
 
 ![](/images/vast2017.png)
 
+**Key techniques**: Python, Javascript, Vega.js, D3.js 
+
 # Project 3: 
