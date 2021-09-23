@@ -9,7 +9,7 @@ Data sceice projects
 
 ![](/images/kaggle_plots.png)
 
-Key techniques: Numpy, Pandas, Plt, Seaborn, Plotly, Sklearn, Random Forest(Xgboost, Lightgbm)
+**Key techniques**: Numpy, Pandas, Plt, Seaborn, Plotly, Sklearn, Random Forest(Xgboost, Lightgbm)
 
 # Project 2: 
 
