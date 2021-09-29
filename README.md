@@ -24,5 +24,6 @@ An interactive visual analytics system to discover the abnormal events which cou
 # Project 3: Training Named Entity From Imperfect Anotation 
 A framework that can increase the NLP model accuracy by eliminating the effect of mislabeled data 
 
-![](/images/NER1.jpg)
-![](/images/NER2.jpg)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/images/NER1.jpg).     | ![](/images/NER2.jpg)
