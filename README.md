@@ -24,9 +24,9 @@ An interactive visual analytics system to discover the abnormal events which cou
 # Project 3: Training Named Entity From Imperfect Anotation 
 A framework that can increase the NLP model accuracy by eliminating the effect of mislabeled data
 
-* Implemented the algorithm from paper: CrossWeigh: Training Named Entity Tagger from Imperfect Annotations. 
+* Implemented the algorithm from paper: CrossWeigh: Training Named Entity Tagger from Imperfect Annotations
 * Improved the algorithm to let ε be a hyperparamete, which increased the accuracy by 1%
-* Experimentes two features in framework on CoNLL03 to measure each ability to increase accuracy; Turns out that the disjoint filter is more effective
+* Experimented on CoNLL03 to measure each feature's ability to increase accuracy; Turns out that the disjoint filter is more effective
 
  Algorithm                 |Test Result
 :-------------------------:|:-------------------------:
