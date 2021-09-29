@@ -23,3 +23,7 @@ An interactive visual analytics system to discover the abnormal events which cou
 
 # Project 3: Training Named Entity From Imperfect Anotation 
 A framework that can increase the NLP model accuracy by eliminating the effect of mislabeled data 
+
+
+![](/images/NER1.png)
+![](/images/NER2.png)
