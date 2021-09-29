@@ -26,7 +26,7 @@ A framework that can increase the NLP model accuracy by eliminating the effect o
 
 * Implemented the algorithm from paper: CrossWeigh: Training Named Entity Tagger from Imperfect Annotations. 
 * Improved the algorithm to let ε be a hyperparamete, which increased the accuracy by 1%
-* Experimentes two features in framework on CoNLL03 to measure each ability to increase accuracy, resulting that the disjoint filter is more effective
+* Experimentes two features in framework on CoNLL03 to measure each ability to increase accuracy; Turns out that the disjoint filter is more effective
 
  Algorithm                 |Test Result
 :-------------------------:|:-------------------------:
