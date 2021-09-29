@@ -22,7 +22,12 @@ An interactive visual analytics system to discover the abnormal events which cou
 **Key techniques**: Python, Javascript, Vega.js, D3.js 
 
 # Project 3: Training Named Entity From Imperfect Anotation 
-A framework that can increase the NLP model accuracy by eliminating the effect of mislabeled data 
+A framework that can increase the NLP model accuracy by eliminating the effect of mislabeled data
+
+* 1
+* 2
+* 3
+
  Algorithm                 |Test Result
 :-------------------------:|:-------------------------:
-![](/images/NER1.jpg).     |![](/images/NER2.jpg).
+![](/images/NER1.jpg).    |![](/images/NER2.jpg).
