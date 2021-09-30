@@ -28,6 +28,5 @@ A framework that can increase the NLP model accuracy by eliminating the effect o
 * Improved the algorithm to let ε be a hyperparamete, which increased the accuracy by 1%
 * Experimented on CoNLL03 to measure each feature's ability to increase accuracy; Turns out that the disjoint filter is more effective
 
- Algorithm                 |Test Result
-:-------------------------:|:-------------------------:
-![](/images/NER1.jpg).    |![](/images/NER2.jpg).
+![](/images/NER1.jpg).    
+![](/images/NER2.jpg).
